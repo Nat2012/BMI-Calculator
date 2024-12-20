@@ -1,0 +1,21 @@
+header{
+    font-size: larger;
+    font-weight: bolder;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+#wrapperhead{
+    background-color: blue;
+    width: 100%;
+    height: 60px;
+}
+
+.wrapperbody{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 80%;
+    border-radius: 40px;
+    text-align: center;
+}
+
