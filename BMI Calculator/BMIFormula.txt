@@ -1,1 +1,0 @@
-BMI is gotten by dividing an adult's weight in kilograms by their height in metres squared.
